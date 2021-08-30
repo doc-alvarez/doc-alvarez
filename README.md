@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on The <a href="https://www.safecloud.live">#SAFE project</a>
+- 🔭 I’m currently working on <a href="https://www.amyris.com">Amyris</a>
 
-- 🌱 I’m currently learning React Advance Patterns.
+- 🌱 I’m currently learning Shopify theme development and liquid templates.
 
-- 👯 I’m looking to collaborate on HealthCare industry projects!
+- 👯 I’m looking to collaborate on HealthCare industry or similar projects!
 
-- 💬 Talk to me about React, Python, Freelancing Opportunites, Open Source! 
+- 💬 Talk to me about React, javaScript, Freelancing Opportunites and Open Source! 
 
 <!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> -->
 

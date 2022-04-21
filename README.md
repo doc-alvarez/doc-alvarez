@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.amyris.com">Amyris</a>
 
-- 🌱 I’m currently learning Shopify theme development and liquid templates.
+- 🌱 I’m currently learning Solana Development and Blockchain tech.
 
 - 👯 I’m looking to collaborate on HealthCare industry or similar projects!
 
